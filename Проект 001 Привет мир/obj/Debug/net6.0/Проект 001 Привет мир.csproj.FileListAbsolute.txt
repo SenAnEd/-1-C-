@@ -1,0 +1,15 @@
+C:\Users\Евгений\Desktop\Проекты лекция 1 С#\Проект 001 Привет мир\bin\Debug\net6.0\Проект 001 Привет мир.exe
+C:\Users\Евгений\Desktop\Проекты лекция 1 С#\Проект 001 Привет мир\bin\Debug\net6.0\Проект 001 Привет мир.deps.json
+C:\Users\Евгений\Desktop\Проекты лекция 1 С#\Проект 001 Привет мир\bin\Debug\net6.0\Проект 001 Привет мир.runtimeconfig.json
+C:\Users\Евгений\Desktop\Проекты лекция 1 С#\Проект 001 Привет мир\bin\Debug\net6.0\Проект 001 Привет мир.dll
+C:\Users\Евгений\Desktop\Проекты лекция 1 С#\Проект 001 Привет мир\bin\Debug\net6.0\Проект 001 Привет мир.pdb
+C:\Users\Евгений\Desktop\Проекты лекция 1 С#\Проект 001 Привет мир\obj\Debug\net6.0\Проект 001 Привет мир.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\Проекты лекция 1 С#\Проект 001 Привет мир\obj\Debug\net6.0\Проект 001 Привет мир.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Desktop\Проекты лекция 1 С#\Проект 001 Привет мир\obj\Debug\net6.0\Проект 001 Привет мир.AssemblyInfoInputs.cache
+C:\Users\Евгений\Desktop\Проекты лекция 1 С#\Проект 001 Привет мир\obj\Debug\net6.0\Проект 001 Привет мир.AssemblyInfo.cs
+C:\Users\Евгений\Desktop\Проекты лекция 1 С#\Проект 001 Привет мир\obj\Debug\net6.0\Проект 001 Привет мир.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\Проекты лекция 1 С#\Проект 001 Привет мир\obj\Debug\net6.0\Проект 001 Привет мир.dll
+C:\Users\Евгений\Desktop\Проекты лекция 1 С#\Проект 001 Привет мир\obj\Debug\net6.0\refint\Проект 001 Привет мир.dll
+C:\Users\Евгений\Desktop\Проекты лекция 1 С#\Проект 001 Привет мир\obj\Debug\net6.0\Проект 001 Привет мир.pdb
+C:\Users\Евгений\Desktop\Проекты лекция 1 С#\Проект 001 Привет мир\obj\Debug\net6.0\Проект 001 Привет мир.genruntimeconfig.cache
+C:\Users\Евгений\Desktop\Проекты лекция 1 С#\Проект 001 Привет мир\obj\Debug\net6.0\ref\Проект 001 Привет мир.dll

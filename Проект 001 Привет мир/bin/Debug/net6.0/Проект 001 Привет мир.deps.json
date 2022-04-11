@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Проект 001 Привет мир/1.0.0": {
+        "runtime": {
+          "Проект 001 Привет мир.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Проект 001 Привет мир/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
