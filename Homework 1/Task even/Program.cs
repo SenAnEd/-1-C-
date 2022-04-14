@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int number = 9;
+
+if (number % 2 == 0)
+{
+   System.Console.Write($"Число {number} четное");
+}
+else
+{
+   System.Console.Write($"Число {number} нечетное");
+}
