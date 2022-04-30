@@ -16,14 +16,18 @@ void PrintArray (int []array)
     }
     System.Console.WriteLine();
 }
+void SummNegArray( int [] array)
+{
+int summ=0;
+for (int i = 1; i < array.Length; i=i+2)
+{
+  summ += array [i];
+}
+System.Console.WriteLine($"Сумма элементов стоящих на нечетных позициях = {summ} ");
+}
 
 Console.Clear();
 int [] mass = new int [5];
 FillArray(mass);
 PrintArray(mass);
-int summ=0;
-for (int i = 1; i < mass.Length; i=i+2)
-{
-  summ += mass [i];
-}
-System.Console.WriteLine($"Сумма элементов стоящих на нечетных позициях = {summ} ");
+SummNegArray(mass);

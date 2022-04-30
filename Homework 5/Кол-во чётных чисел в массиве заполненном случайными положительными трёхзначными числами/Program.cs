@@ -16,14 +16,20 @@ void PrintArray (int []array)
     }
     System.Console.WriteLine();
 }
+void CountPosNumbersArray(int [] array)
+{
+int count=0;
+for (int i = 0; i < array.Length; i++)
+{
+  if(array[i]%2==0) count++;
+}
+System.Console.WriteLine($"Количество четных чисел в массиве {count}");
+}
 
 Console.Clear();
 int [] mass = new int [5];
 FillArray(mass);
 PrintArray(mass);
-int count=0;
-for (int i = 0; i < mass.Length; i++)
-{
-  if(mass[i]%2==0) count++;
-}
-System.Console.WriteLine($"Количество четных чисел в массиве {count}");
+CountPosNumbersArray(mass);
+
+
