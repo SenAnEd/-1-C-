@@ -35,5 +35,5 @@ int SumOfNumbers(int N)
 
 Console.Clear();
 System.Console.Write("Введите число А: ");
-int A = int.Parse(Console.ReadLine());
+int A = int.Parse(Console.ReadLine()!);
 System.Console.WriteLine(SumOfNumbers(A));

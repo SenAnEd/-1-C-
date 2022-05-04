@@ -2,9 +2,9 @@
 
 Console.Clear();
 System.Console.Write("Введите число А: ");
-int A = int.Parse(Console.ReadLine());
+int A = int.Parse(Console.ReadLine()!);
 System.Console.Write("Введите число B: ");
-int B = int.Parse(Console.ReadLine());
+int B = int.Parse(Console.ReadLine()!);
 int N = A;
 for (int i = 1; i < B; i++)
 {
