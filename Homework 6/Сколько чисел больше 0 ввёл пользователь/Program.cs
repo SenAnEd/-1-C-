@@ -2,7 +2,7 @@
 
 Console.Clear();
 Console.Write("Введите числа через запятую: ");
-string a = Console.ReadLine();
+string a = Console.ReadLine()!;
 string[] arr = a.Split(",");
 int count = 0;
 for (int i = 0; i < arr.Length; i++)
